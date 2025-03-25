@@ -1,0 +1,3 @@
+[submodule "CNSGROUP"]
+	path = CNSGROUP
+	url = https://github.com/Default133/CNSGROUP.git
